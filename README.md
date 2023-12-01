@@ -5,13 +5,13 @@ The SharePoint Dashboards project utilizes the SharePoint SPFx framework to buil
 ## Getting Started
 To set up the SharePoint Dashboards project, follow these steps:
 ### 1. Clone the Repository:
-git clone https://github.com/your-username/sharepoint-dashboards.git
+git clone https://github.com/Dagimassefa/Sharepoint-Dashboards-.git <br />
 cd sharepoint-dashboards
 ### 2. Install Dependencies:
 npm install
 ### 3. Build and Deploy:
-gulp bundle --ship
-gulp package-solution --ship
-Deploy the generated package to your SharePoint app catalog.
+gulp bundle --ship  <br />
+gulp package-solution --ship  <br />
+Deploy the generated package to your SharePoint app catalog.  <br />
 ### 4. Add Web Parts to Pages:
 Once deployed, add the dashboard web parts to your SharePoint pages through the web part picker.
